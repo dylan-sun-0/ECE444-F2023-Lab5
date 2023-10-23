@@ -9,3 +9,6 @@
 
 ### Templates and Views
 ![Alt text](screenshots/image3.png)
+
+### Add Some Style
+![Alt text](screenshots/image4.png)
