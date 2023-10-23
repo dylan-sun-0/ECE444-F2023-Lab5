@@ -6,3 +6,6 @@
 
 ### Database Set up 
 ![Alt text](screenshots/image2.png)
+
+### Templates and Views
+![Alt text](screenshots/image3.png)
