@@ -81,3 +81,7 @@ def test_delete_message(client):
     rv = client.get('/delete/1')
     data = json.loads(rv.data)
     assert data["status"] == 1
+
+def test_index(client):
+    response = client.get("/search/")
+    assert response.status_code == 200
