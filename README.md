@@ -12,3 +12,6 @@
 
 ### Add Some Style
 ![Alt text](screenshots/image4.png)
+
+### With Bootstrap
+![Alt text](screenshots/image5.png)
