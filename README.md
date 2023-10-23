@@ -3,3 +3,6 @@
 
 ### First Test
 ![Alt text](screenshots/image.png)
+
+### Database Set up 
+![Alt text](screenshots/image2.png)
