@@ -9,7 +9,7 @@ Research taken from [this article](https://medium.com/javarevisited/the-pros-and
 
 ### Example test case 
 
-This is an example testcase from our user project attached [here] (https://github.com/ECE444-2023Fall/project-1-web-application-design-group16-fieryflamingos/blob/05c77bb487300e3da111578b249a82917f649b4f/tests/test_db.py#L107).
+This is an example testcase from our user project attached [here](https://github.com/ECE444-2023Fall/project-1-web-application-design-group16-fieryflamingos/blob/05c77bb487300e3da111578b249a82917f649b4f/tests/test_db.py#L107).
 
 **Advantages:**
 
