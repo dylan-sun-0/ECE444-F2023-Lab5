@@ -11,6 +11,11 @@ Research taken from [this article](https://medium.com/javarevisited/the-pros-and
 
 This is an example testcase from our user project attached [here](https://github.com/ECE444-2023Fall/project-1-web-application-design-group16-fieryflamingos/blob/05c77bb487300e3da111578b249a82917f649b4f/tests/test_db.py#L107).
 
+If this link no longer works, the branch we were working on tests on probably got merged.
+Please look for it here: https://github.com/ECE444-2023Fall/project-1-web-application-design-group16-fieryflamingos/tree/main
+under tests/test_db.py
+Search for the comment with my name: Dylan Sun, which should bring you to the line which starts the unit test written as an example for this lab. 
+
 **Advantages:**
 
 One of the advantages of TDD is that it promotes good software design. The process of writing tests first forces the developer to think about the functionality and design of the code, leading to more well-designed and modular code.
