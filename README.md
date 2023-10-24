@@ -2,9 +2,6 @@
 
 Implemented based on this repo: https://github.com/mjhea0/flaskr-tdd#database-setup
 
-
-### Pros and Cons of TDD
-
 Research taken from [this article](https://medium.com/javarevisited/the-pros-and-cons-of-tdd-in-software-development-bc65ec3bcc76).
 
 ### Example test case 
@@ -15,6 +12,8 @@ If this link no longer works, the branch we were working on tests on probably go
 Please look for it here: https://github.com/ECE444-2023Fall/project-1-web-application-design-group16-fieryflamingos/tree/main
 under tests/test_db.py
 Search for the comment with my name: Dylan Sun, which should bring you to the line which starts the unit test written as an example for this lab. 
+
+### Pros and Cons of TDD
 
 **Advantages:**
 
